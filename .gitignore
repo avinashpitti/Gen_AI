@@ -1,0 +1,13 @@
+# Ignore virtual environment packages and binaries
+**/myenv/
+**/Lib/
+**/Include/
+**/Scripts/
+**/share/
+**/etc/
+pyvenv.cfg
+
+# Ignore secrets and cache
+**/.env
+**/__pycache__/
+*.pyc
