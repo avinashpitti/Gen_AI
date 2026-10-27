@@ -1,0 +1,11 @@
+Course Name: Python Full Stack Development
+Duration: 4 Months
+Fees: INR 25,000
+Prerequisites: Basic computer fundamentals.
+Topics Covered: Python basics, OOPs, FastAPI, Django, PostgreSQL, Docker, Git.
+
+Course Name: Generative AI & AWS Cloud Mastery
+Duration: 20 Classes
+Fees: INR 35,000
+Prerequisites: Python programming knowledge.
+Topics Covered: LLM fundamentals, Prompt Engineering, LangChain, RAG architectures, Vector Databases (ChromaDB), Boto3, AWS S3, EC2 deployment, and Serverless Lambda.
