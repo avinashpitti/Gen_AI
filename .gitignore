@@ -1,5 +1,6 @@
 # Ignore virtual environment packages and binaries
 **/myenv/
+**/ragenv/
 **/Lib/
 **/Include/
 **/Scripts/
@@ -7,7 +8,26 @@
 **/etc/
 pyvenv.cfg
 
-# Ignore secrets and cache
+# Ignore secrets and keys
 **/.env
+**/.env.*
+*.pem
+*.key
+
+# Ignore Python cache
 **/__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ignore local ChromaDB vector databases
+chroma/
+*.chroma
+chroma.sqlite3
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Downloaded cloud data
+downloaded_hospital_data.txt
