@@ -1,0 +1,4 @@
+creating a file:
+type nul> .gitignore
+type nul> .env
+type nul> app.py

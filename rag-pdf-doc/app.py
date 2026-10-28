@@ -1,3 +1,5 @@
+# pip install langchain langchain-community langchain-text-splitters langchain-huggingface langchain-chroma langchain-groq boto3 python-dotenv pypdf sentence-transformers
+
 import os
 import boto3
 from dotenv import load_dotenv
