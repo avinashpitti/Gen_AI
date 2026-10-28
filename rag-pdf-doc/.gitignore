@@ -1,0 +1,25 @@
+# Virtual environment
+pdfenv/
+
+# Environment variables & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local ChromaDB files
+chroma/
+*.chroma
+chroma.sqlite3
+
+# Downloaded files & temporary PDFs
+downloaded_doc.pdf
+*.pdf
+
+# IDE settings
+.vscode/
+.idea/
